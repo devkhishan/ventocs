@@ -1,0 +1,3 @@
+# ventocs
+
+The project aims to offer a decentralized forum platform for developers to easily communicate, converse, and get their questions answered among the community. Using a reward system and blockchain technology, which guarantees zero downtime, is a greater benefit for developers because they earn rewards for what they do. Web 3.0 ensures high-level security for the transfer of data within the network. The platform's own cryptocurrency token ( Ventocs token ) allows users to make donations and conduct financial transactions with other users. The use of several popular blockchains like Ethereum, Solana Polygon, etc. will allow users to transact faster, cheaper, and more reliably. 
